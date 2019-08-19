@@ -3,7 +3,7 @@ Filtra tabela por digitação em campo "Input".
 
 Definir o campo INPUT de filtro:
 ```html
-<input id="filtro-produto" class="input-text" /></div>
+<input id="filtro-produto" class="input-text" />
 ```
 
 Definir o ID da tabela:
